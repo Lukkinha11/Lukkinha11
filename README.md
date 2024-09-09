@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">* Developer Full Stack<br><br>*Full Stack Developer with solid experience in creating and maintaining web applications using PHP, Laravel and JavaScript. I have a strong background in managing MySQL, MinIO, PostgreSQL and Redis databases, as well as practical experience with Docker containers and implementing WebSockets for real-time communication.<br>Specialist in creating scalable and efficient solutions, with a focus on the product and good development practices.</p>
+<p align="left">* Developer Full Stack<br><br>* Full Stack Developer with solid experience in creating and maintaining web applications using PHP, Laravel and JavaScript. I have a strong background in managing MySQL, MinIO, PostgreSQL and Redis databases, as well as practical experience with Docker containers and implementing WebSockets for real-time communication.<br>Specialist in creating scalable and efficient solutions, with a focus on the product and good development practices.</p>
 
 ###
 
